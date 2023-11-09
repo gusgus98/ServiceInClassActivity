@@ -7,7 +7,7 @@ import android.os.IBinder
 import android.util.Log
 
 @Suppress("ControlFlowWithEmptyBody")
-class TimerService : Service() {
+class  TimerService : Service() {
 
     private var isRunning = false
 
